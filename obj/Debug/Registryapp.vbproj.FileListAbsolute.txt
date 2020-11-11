@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Registryapp\Registryapp\bin\Debug\Registryapp.exe.config
+C:\Users\Admin\source\repos\Registryapp\Registryapp\bin\Debug\Registryapp.exe
+C:\Users\Admin\source\repos\Registryapp\Registryapp\bin\Debug\Registryapp.pdb
+C:\Users\Admin\source\repos\Registryapp\Registryapp\bin\Debug\Registryapp.xml
+C:\Users\Admin\source\repos\Registryapp\Registryapp\obj\Debug\Registryapp.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Registryapp\Registryapp\obj\Debug\Registryapp.Json_Opner.resources
+C:\Users\Admin\source\repos\Registryapp\Registryapp\obj\Debug\Registryapp.Resources.resources
+C:\Users\Admin\source\repos\Registryapp\Registryapp\obj\Debug\Registryapp.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Registryapp\Registryapp\obj\Debug\Registryapp.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Registryapp\Registryapp\obj\Debug\Registryapp.exe
+C:\Users\Admin\source\repos\Registryapp\Registryapp\obj\Debug\Registryapp.xml
+C:\Users\Admin\source\repos\Registryapp\Registryapp\obj\Debug\Registryapp.pdb
